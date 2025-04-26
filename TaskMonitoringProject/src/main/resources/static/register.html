@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<head>
+    <meta charset="UTF-8">
+    <title>Вход</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- <div id="modal-error" class="modal">
+        <div class="modal-content">
+            <p id="modal-message"></p>
+            <button class="close-modal">OK</button>
+        </div>
+    </div> -->
+
+    <div class="register-container">
+        <div class="form-container">
+            <form id="register-form" action="/register" method="POST">
+
+                <div class="form-feild">
+                    <input class="input-style" type="text" id="surename" placeholder="Фамилия" required>
+                </div>
+                <div class="form-feild">
+                    <input class="input-style" type="text" id="name" placeholder="Имя" required>
+                </div>
+                <div class="form-feild">
+                    <input class="input-style" type="text" id="patronim" placeholder="Отчество" required>
+                </div>
+                <div class="form-feild">
+                    <input class="input-style" type="text" id="birth_date" placeholder="Дата рождения" required>
+                </div>
+                <div class="form-feild">
+                    <input class="input-style" type="email" id="email" placeholder="Почта" required>
+                </div>
+                <div class="form-feild">
+                    <input class="input-style" type="tel" id="phone" placeholder="Телефон" required>
+                </div>
+                <div class="form-feild">
+                    <input class="input-style" type="password" id="password" placeholder="Пароль" required>
+                </div>
+            </form>
+        </div>
+        <div class="next-back-buttons">
+            <button onclick="window.location.href='index.html'" class="thin-border-button">Назад</button>
+            <button onclick="window.location.href= ''" class="thin-border-button">Далее</button>
+        </div>
+    </div>
+<script src="js/auth.js"></script>
+</body>
