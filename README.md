@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/21b0fa01-5e61-4d23-a949-7078bba8923f)# TaskMonitoring
 Task Monitoring Service
 Система управления задачами с интуитивно понятным интерфейсом и базовыми функциями организации рабочего процесса.
 
