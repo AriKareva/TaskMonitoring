@@ -18,3 +18,7 @@ Task Monitoring Service
 ```bash
 git clone https://github.com/AriKareva/TaskMonitoring.git
 cd task-manager
+
+**### Руководство пользователя**
+```bash
+(https://wiki.yandex.ru/?skipPromo=1&utm_referrer=https%253A%252F%252Fwiki.yandex.ru%252F)
