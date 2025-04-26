@@ -11,13 +11,15 @@ Task Monitoring Service
 ## 🚀 Быстрый старт
 
 ### Требования
-- Веб-браузер (Chrome, Firefox, Edge)
+- Веб-браузер (Chrome 90+, Firefox 88+, Edge 90+)
 - Доступ в интернет
+- Разрешение экрана не менее 1024×768
+
+### Руководство пользователя
+- (https://wiki.yandex.ru/?skipPromo=1&utm_referrer=https%253A%252F%252Fwiki.yandex.ru%252F)
 
 ### Установка
 ```bash
 git clone https://github.com/AriKareva/TaskMonitoring.git
 cd task-manager
 
-### Руководство пользователя
-https://wiki.yandex.ru/?skipPromo=1&utm_referrer=https%253A%252F%252Fwiki.yandex.ru%252F
